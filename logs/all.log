@@ -1,0 +1,464 @@
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-16T08:44:32.032Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-16T08:44:33.063Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-16T08:48:14.751Z"}
+{"level":"info","message":"New user - myapi:abc1234","timestamp":"2018-03-16T08:48:16.787Z"}
+{"level":"info","message":"New client - android:SomeRandomCharsAndNumbers","timestamp":"2018-03-16T08:48:16.790Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-16T09:07:00.375Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-16T09:07:01.406Z"}
+{"level":"error","message":"Article with id: 13 Not Found","timestamp":"2018-03-16T09:43:59.775Z"}
+{"level":"error","message":"Article with id: 13 Not Found","timestamp":"2018-03-16T09:45:11.692Z"}
+{"level":"error","message":"Article with id: 13 Not Found","timestamp":"2018-03-16T09:45:12.552Z"}
+{"level":"error","message":"Article with id: 13 Not Found","timestamp":"2018-03-16T09:46:31.363Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-16T10:00:03.470Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-16T10:00:04.523Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-16T10:03:57.402Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-16T10:03:58.421Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-16T10:04:51.213Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-16T10:04:52.262Z"}
+{"level":"error","message":"PUT 400 Unexpected token t in JSON at position 4","timestamp":"2018-03-16T10:25:03.959Z"}
+{"level":"error","message":"PUT 400 Unexpected token t in JSON at position 4","timestamp":"2018-03-16T10:25:52.679Z"}
+{"level":"error","message":"PUT 400 Unexpected token t in JSON at position 4","timestamp":"2018-03-16T10:26:04.529Z"}
+{"level":"error","message":"PUT 400 Unexpected token t in JSON at position 4","timestamp":"2018-03-16T10:26:09.221Z"}
+{"level":"error","message":"PUT 400 Unexpected token } in JSON at position 100","timestamp":"2018-03-16T10:26:52.823Z"}
+{"level":"error","message":"PUT 400 Unexpected token } in JSON at position 137","timestamp":"2018-03-16T10:29:15.485Z"}
+{"level":"info","message":"Article with id: 5aab91eea764563af830f727 updated","timestamp":"2018-03-16T10:31:11.323Z"}
+{"level":"info","message":"Article with id: 5aab91eea764563af830f727 updated","timestamp":"2018-03-16T10:31:36.224Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-21T07:44:02.466Z"}
+{"level":"error","message":"Connection error: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]","timestamp":"2018-03-21T07:44:04.483Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-21T07:45:23.131Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-21T07:45:24.152Z"}
+{"level":"info","message":"Article with id: 5aab91eea764563af830f727 updated","timestamp":"2018-03-21T07:55:54.777Z"}
+{"level":"error","message":"GET 500 tempmodel.find is not a function","timestamp":"2018-03-21T07:57:13.348Z"}
+{"level":"error","message":"GET 500 tempmodel.find is not a function","timestamp":"2018-03-21T08:07:47.291Z"}
+{"level":"error","message":"GET 500 tempmodel.find is not a function","timestamp":"2018-03-21T08:07:48.431Z"}
+{"level":"error","message":"GET 500 tempmodel.find is not a function","timestamp":"2018-03-21T08:08:12.716Z"}
+{"level":"error","message":"GET 500 tempmodel.find is not a function","timestamp":"2018-03-21T08:10:03.540Z"}
+{"level":"error","message":"GET 500 tempmodel.find is not a function","timestamp":"2018-03-21T08:17:12.600Z"}
+{"level":"error","message":"GET 500 tempmodel.findById is not a function","timestamp":"2018-03-21T08:17:54.170Z"}
+{"level":"error","message":"GET 500 tempmodel.findById is not a function","timestamp":"2018-03-21T08:17:55.214Z"}
+{"level":"error","message":"PUT 500 tempmodel.findById is not a function","timestamp":"2018-03-21T08:18:22.571Z"}
+{"level":"error","message":"GET 500 tempmodel.findById is not a function","timestamp":"2018-03-21T08:18:29.150Z"}
+{"level":"error","message":"GET 500 tempmodel.find is not a function","timestamp":"2018-03-21T08:18:34.461Z"}
+{"level":"error","message":"POST 500 tempmodel is not a constructor","timestamp":"2018-03-21T08:31:05.008Z"}
+{"level":"error","message":"POST 500 tempmodel is not a constructor","timestamp":"2018-03-21T08:31:06.233Z"}
+{"level":"error","message":"GET 500 tempmodel.find is not a function","timestamp":"2018-03-21T08:31:13.488Z"}
+{"level":"error","message":"GET 500 tempmodel.find is not a function","timestamp":"2018-03-21T08:32:06.830Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-21T08:32:42.876Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-21T08:32:43.906Z"}
+{"level":"error","message":"GET 500 tempmodel.find is not a function","timestamp":"2018-03-21T08:33:03.867Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-21T08:35:02.707Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-21T08:35:03.735Z"}
+{"level":"error","message":"GET 500 tempmodel.find is not a function","timestamp":"2018-03-21T08:35:05.674Z"}
+{"level":"error","message":"GET 500 tempmodel.find is not a function","timestamp":"2018-03-21T08:35:06.445Z"}
+{"level":"error","message":"GET 500 tempmodel.find is not a function","timestamp":"2018-03-21T08:35:07.331Z"}
+{"level":"error","message":"GET 500 tempmodel.find is not a function","timestamp":"2018-03-21T08:35:07.567Z"}
+{"level":"error","message":"GET 500 tempmodel.find is not a function","timestamp":"2018-03-21T08:35:07.807Z"}
+{"level":"error","message":"GET 500 tempmodel.find is not a function","timestamp":"2018-03-21T08:36:17.381Z"}
+{"level":"error","message":"GET 500 tempmodel.find is not a function","timestamp":"2018-03-21T08:40:04.129Z"}
+{"level":"error","message":"GET 500 tempmodel.find is not a function","timestamp":"2018-03-21T08:40:05.610Z"}
+{"level":"error","message":"GET 500 tempmodel.find is not a function","timestamp":"2018-03-21T08:40:05.808Z"}
+{"level":"error","message":"GET 500 tempmodel.find is not a function","timestamp":"2018-03-21T08:40:06.013Z"}
+{"level":"error","message":"GET 500 tempmodel.find is not a function","timestamp":"2018-03-21T08:40:06.203Z"}
+{"level":"error","message":"GET 500 tempmodel.find is not a function","timestamp":"2018-03-21T08:40:06.425Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-21T08:41:10.572Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-21T08:41:11.602Z"}
+{"level":"error","message":"GET 500 tempmodel.find is not a function","timestamp":"2018-03-21T08:41:19.487Z"}
+{"level":"error","message":"GET 500 tempmodel.find is not a function","timestamp":"2018-03-21T08:41:21.959Z"}
+{"level":"error","message":"GET 500 tempmodel.find is not a function","timestamp":"2018-03-21T08:42:14.130Z"}
+{"level":"error","message":"GET 500 tempmodel.find is not a function","timestamp":"2018-03-21T08:42:16.223Z"}
+{"level":"error","message":"POST 500 tempmodel is not a constructor","timestamp":"2018-03-21T08:47:20.736Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-21T08:49:52.271Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-21T08:49:53.320Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-21T08:51:33.569Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-21T08:51:34.604Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-21T08:54:55.219Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-21T08:54:56.238Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-21T09:02:35.763Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-21T09:02:36.786Z"}
+{"level":"info","message":"New template create with??","timestamp":"2018-03-21T09:02:58.953Z"}
+{"level":"error","message":"POST 500 keymodel is not a constructor","timestamp":"2018-03-21T09:33:38.503Z"}
+{"level":"error","message":"POST 500 keymodel is not a constructor","timestamp":"2018-03-21T09:36:02.252Z"}
+{"level":"error","message":"POST 500 keymodel is not a constructor","timestamp":"2018-03-21T09:36:03.614Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-21T09:37:13.570Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-21T09:37:14.606Z"}
+{"level":"error","message":"POST 500 keymodel is not a constructor","timestamp":"2018-03-21T09:37:30.631Z"}
+{"level":"error","message":"POST 500 keymodel is not a constructor","timestamp":"2018-03-21T09:37:31.513Z"}
+{"level":"error","message":"POST 500 keymodel is not a constructor","timestamp":"2018-03-21T09:37:32.268Z"}
+{"level":"error","message":"POST 500 keymodel is not a constructor","timestamp":"2018-03-21T09:37:53.761Z"}
+{"level":"error","message":"POST 500 keymodel is not a constructor","timestamp":"2018-03-21T09:37:56.972Z"}
+{"level":"info","message":"New template create with??","timestamp":"2018-03-21T09:38:10.055Z"}
+{"level":"error","message":"GET 500 tempmodel is not defined","timestamp":"2018-03-21T09:39:41.188Z"}
+{"level":"error","message":"GET 500 tempmodel is not defined","timestamp":"2018-03-21T09:39:48.389Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-21T09:40:33.034Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-21T09:40:34.056Z"}
+{"level":"error","message":"POST 500 keymodel is not a constructor","timestamp":"2018-03-21T09:44:15.918Z"}
+{"level":"error","message":"POST 500 keymodel is not a constructor","timestamp":"2018-03-21T09:44:16.595Z"}
+{"level":"error","message":"POST 500 keymodel is not a constructor","timestamp":"2018-03-21T09:44:16.777Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-21T09:46:25.717Z"}
+{"level":"error","message":"POST 500 keymodel is not a constructor","timestamp":"2018-03-21T09:46:26.650Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-21T09:46:26.743Z"}
+{"level":"error","message":"POST 500 keymodel is not a constructor","timestamp":"2018-03-21T09:46:27.527Z"}
+{"level":"error","message":"POST 500 keymodel is not a constructor","timestamp":"2018-03-21T09:46:27.719Z"}
+{"level":"error","message":"POST 500 keymodel is not a constructor","timestamp":"2018-03-21T09:46:27.959Z"}
+{"level":"error","message":"POST 500 keymodel is not a constructor","timestamp":"2018-03-21T09:46:28.669Z"}
+{"level":"error","message":"POST 500 keymodel is not a constructor","timestamp":"2018-03-21T09:48:30.589Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-22T06:32:50.692Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-22T06:32:51.741Z"}
+{"level":"info","message":"New key:keymodel.id","timestamp":"2018-03-22T06:36:11.403Z"}
+{"level":"info","message":"New template create with??","timestamp":"2018-03-22T06:36:21.097Z"}
+{"level":"info","message":"New key:keymodel.id","timestamp":"2018-03-22T06:37:26.053Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-22T06:56:27.130Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-22T06:56:28.157Z"}
+{"level":"info","message":"New key:keymodel.id","timestamp":"2018-03-22T06:57:08.002Z"}
+{"level":"info","message":"New key:keymodel.id","timestamp":"2018-03-22T06:57:21.049Z"}
+{"level":"info","message":"New key:keymodel.id","timestamp":"2018-03-22T06:57:33.236Z"}
+{"level":"info","message":"New key:keymodel.id","timestamp":"2018-03-22T06:57:42.333Z"}
+{"level":"info","message":"New key:keymodel.id","timestamp":"2018-03-22T06:57:50.445Z"}
+{"level":"info","message":"New key:keymodel.id","timestamp":"2018-03-22T06:57:55.982Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-22T07:02:28.539Z"}
+{"level":"error","message":"Connection error: connection 0 to localhost:27017 timed out","timestamp":"2018-03-22T07:02:59.561Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-22T07:03:52.803Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-22T07:03:53.823Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-22T07:10:19.661Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-22T07:10:20.681Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-22T09:28:05.930Z"}
+{"level":"error","message":"Connection error: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]","timestamp":"2018-03-22T09:28:07.951Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-23T07:58:56.645Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-23T07:58:57.686Z"}
+{"level":"info","message":"New key:keymodel.id","timestamp":"2018-03-23T08:24:09.643Z"}
+{"level":"info","message":"New key:keymodel.id","timestamp":"2018-03-23T08:27:32.586Z"}
+{"level":"info","message":"New key:keymodel.id","timestamp":"2018-03-23T08:27:41.282Z"}
+{"level":"info","message":"New key:keymodel.id","timestamp":"2018-03-23T08:27:48.030Z"}
+{"level":"info","message":"New key:keymodel.id","timestamp":"2018-03-23T08:27:51.463Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-23T08:35:23.803Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-23T08:35:24.835Z"}
+{"level":"error","message":"key:5ab4ba8799592c14ccfee1ca is not found","timestamp":"2018-03-23T08:35:32.385Z"}
+{"level":"error","message":"key:5ab4ba8799592c14ccfee1ca is not found","timestamp":"2018-03-23T08:35:33.806Z"}
+{"level":"error","message":"key:5ab4ba8799592c14ccfee1ca is not found","timestamp":"2018-03-23T08:36:17.727Z"}
+{"level":"error","message":"key:5ab4ba8499592c14ccfee1c9 is not found","timestamp":"2018-03-23T08:39:08.563Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-23T08:40:13.689Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-23T08:40:14.725Z"}
+{"level":"error","message":"key:5ab4ba8499592c14ccfee1c9 is not found","timestamp":"2018-03-23T08:40:19.401Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-23T08:42:37.358Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-23T08:42:38.391Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-23T08:56:08.471Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-23T08:56:09.496Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-23T09:03:04.687Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-23T09:03:05.724Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-23T09:08:09.081Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-23T09:08:10.127Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-23T09:10:35.677Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-23T09:10:36.707Z"}
+{"level":"info","message":"","timestamp":"2018-03-23T09:10:42.190Z"}
+{"level":"info","message":"","timestamp":"2018-03-23T09:10:42.194Z"}
+{"level":"info","message":"","timestamp":"2018-03-23T09:10:43.377Z"}
+{"level":"info","message":"","timestamp":"2018-03-23T09:10:43.377Z"}
+{"level":"info","message":"","timestamp":"2018-03-23T09:11:10.027Z"}
+{"level":"info","message":"","timestamp":"2018-03-23T09:11:10.028Z"}
+{"level":"info","message":"","timestamp":"2018-03-23T09:11:12.068Z"}
+{"level":"info","message":"","timestamp":"2018-03-23T09:11:12.069Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-23T09:12:51.302Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-23T09:12:52.325Z"}
+{"level":"error","message":"GET 500 keymodel.findByEId is not a function","timestamp":"2018-03-23T09:12:54.835Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-23T09:16:00.846Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-23T09:16:01.889Z"}
+{"level":"info","message":"","timestamp":"2018-03-23T09:16:05.007Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-23T09:18:03.804Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-23T09:18:04.833Z"}
+{"$__":{"strictMode":true,"selected":{},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":180,"2":186,"3":135,"4":153,"5":89,"6":44,"7":20,"8":204,"9":254,"10":225,"11":202}},"wasPopulated":false,"activePaths":{"paths":{"_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"__v":true},"modify":{},"require":{}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[\"$__\"][\"_id\"]"},"keyNm":"wuyuqing21","access_key":"bnqwcuywq3432g","secret_key":"xbyqu278t23gf83","types":"kps","createEid":"yuqing.wu1","__v":0},"$init":true,"level":"info","message":"","timestamp":"2018-03-23T09:18:22.052Z"}
+{"level":"error","message":"PUT 500 Cannot read property 'id' of undefined","timestamp":"2018-03-23T09:18:31.323Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-23T09:19:22.047Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-23T09:19:23.093Z"}
+{"level":"info","message":"","timestamp":"2018-03-23T09:19:27.448Z"}
+{"level":"info","message":"","timestamp":"2018-03-23T09:19:28.351Z"}
+{"level":"error","message":"PUT 500 Cannot read property 'id' of undefined","timestamp":"2018-03-23T09:19:55.563Z"}
+{"level":"error","message":"PUT 500 Cannot read property 'id' of undefined","timestamp":"2018-03-23T09:21:19.350Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-23T09:24:57.641Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-23T09:24:58.680Z"}
+{"level":"error","message":"DELETE 500 keymodel.findOneAndDelete is not a function","timestamp":"2018-03-23T09:25:47.797Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-25T01:47:51.631Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-25T01:47:52.659Z"}
+{"level":"error","message":"key:wuyuqing2 is not found","timestamp":"2018-03-25T01:50:42.654Z"}
+{"level":"error","message":"key:5ab4b9a999592c14ccfee1c6 is not found","timestamp":"2018-03-25T01:51:22.714Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-25T01:51:32.797Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-25T01:51:33.841Z"}
+{"level":"error","message":"key:5ab4b9a999592c14ccfee1c6 is not found","timestamp":"2018-03-25T01:52:10.354Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-25T01:52:50.345Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-25T01:52:51.396Z"}
+{"level":"error","message":"key:5ab4b9a999592c14ccfee1c6 is not found","timestamp":"2018-03-25T01:52:54.144Z"}
+{"level":"error","message":"key:5ab4b9a999592c14ccfee1c6 is not found","timestamp":"2018-03-25T01:52:55.723Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-25T01:53:20.841Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-25T01:53:21.916Z"}
+{"level":"error","message":"key:5ab4b9a999592c14ccfee1c6 is not found","timestamp":"2018-03-25T01:53:23.230Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-25T10:05:13.501Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-25T10:05:14.567Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-25T10:19:03.692Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-25T10:19:04.721Z"}
+{"level":"info","message":"key5ab4b9a999592c14ccfee1c6 is deleted","timestamp":"2018-03-25T10:19:08.576Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-25T10:21:01.005Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-25T10:21:02.037Z"}
+{"level":"info","message":"","timestamp":"2018-03-25T10:21:10.363Z"}
+{"level":"info","message":"","timestamp":"2018-03-25T10:23:08.461Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-25T10:25:38.931Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-25T10:25:39.987Z"}
+{"level":"info","message":"","timestamp":"2018-03-25T10:25:46.179Z"}
+{"level":"info","message":"","timestamp":"2018-03-25T10:25:46.181Z"}
+{"level":"info","message":"","timestamp":"2018-03-25T10:27:28.890Z"}
+{"level":"info","message":"","timestamp":"2018-03-25T10:27:28.890Z"}
+{"level":"info","message":"","timestamp":"2018-03-25T10:29:40.988Z"}
+{"level":"info","message":"","timestamp":"2018-03-25T10:29:40.989Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-25T10:30:32.860Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-25T10:30:33.887Z"}
+{"level":"error","message":"GET 500 statusCode is not defined","timestamp":"2018-03-25T10:30:36.445Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-25T10:31:01.676Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-25T10:31:02.717Z"}
+{"level":"info","message":"200","timestamp":"2018-03-25T10:31:05.550Z"}
+{"level":"info","message":"","timestamp":"2018-03-25T10:31:05.551Z"}
+{"level":"info","message":"","timestamp":"2018-03-25T10:31:05.554Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-25T10:32:38.775Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-25T10:32:39.812Z"}
+{"level":"info","message":"200","timestamp":"2018-03-25T10:32:40.342Z"}
+{"level":"info","message":"","timestamp":"2018-03-25T10:32:40.343Z"}
+[{"$__":{"strictMode":true,"selected":{},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":180,"2":186,"3":116,"4":153,"5":89,"6":44,"7":20,"8":204,"9":254,"10":225,"11":199}},"wasPopulated":false,"activePaths":{"paths":{"_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"__v":true},"modify":{},"require":{}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[0][\"$__\"][\"_id\"]"},"keyNm":"wuyuqing2","access_key":"bnqwcuywq3432g","secret_key":"xbyqu278t23gf83","types":"md5s","createEid":"yuqing.wu","__v":0},"$init":true},{"$__":{"strictMode":true,"selected":{"$ref":"$[0][\"$__\"][\"selected\"]"},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":180,"2":186,"3":125,"4":153,"5":89,"6":44,"7":20,"8":204,"9":254,"10":225,"11":200}},"wasPopulated":false,"activePaths":{"paths":{"_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"__v":true},"modify":{},"require":{}},"stateNames":{"$ref":"$[0][\"$__\"][\"activePaths\"][\"stateNames\"]"}},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[1][\"$__\"][\"_id\"]"},"keyNm":"wuyuqing21","access_key":"bnqwcuywq3432g","secret_key":"xbyqu278t23gf83","types":"md5s1","createEid":"yuqing.wu","__v":0},"$init":true},{"$__":{"strictMode":true,"selected":{"$ref":"$[0][\"$__\"][\"selected\"]"},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":180,"2":186,"3":132,"4":153,"5":89,"6":44,"7":20,"8":204,"9":254,"10":225,"11":201}},"wasPopulated":false,"activePaths":{"paths":{"_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"__v":true},"modify":{},"require":{}},"stateNames":{"$ref":"$[0][\"$__\"][\"activePaths\"][\"stateNames\"]"}},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[2][\"$__\"][\"_id\"]"},"keyNm":"wuyuqing21","access_key":"bnqwcuywq3432g","secret_key":"xbyqu278t23gf83","types":"kps","createEid":"yuqing.wu","__v":0},"$init":true},{"$__":{"strictMode":true,"selected":{"$ref":"$[0][\"$__\"][\"selected\"]"},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":180,"2":186,"3":135,"4":153,"5":89,"6":44,"7":20,"8":204,"9":254,"10":225,"11":202}},"wasPopulated":false,"activePaths":{"paths":{"_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"__v":true},"modify":{},"require":{}},"stateNames":{"$ref":"$[0][\"$__\"][\"activePaths\"][\"stateNames\"]"}},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[3][\"$__\"][\"_id\"]"},"keyNm":"wuyuqing21","access_key":"bnqwcuywq3432g","secret_key":"xbyqu278t23gf83","types":"kps","createEid":"yuqing.wu1","__v":0},"$init":true}]
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T04:13:41.392Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T04:13:42.418Z"}
+{"level":"error","message":"key:5ab4b9a999592c14ccfee1c6 is not found","timestamp":"2018-03-26T04:25:43.401Z"}
+{"level":"info","message":"200","timestamp":"2018-03-26T04:25:58.656Z"}
+{"level":"info","message":"","timestamp":"2018-03-26T04:25:58.656Z"}
+[{"$__":{"strictMode":true,"selected":{},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":180,"2":186,"3":116,"4":153,"5":89,"6":44,"7":20,"8":204,"9":254,"10":225,"11":199}},"wasPopulated":false,"activePaths":{"paths":{"reginon":"require","_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"__v":true},"modify":{},"require":{"reginon":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[0][\"$__\"][\"_id\"]"},"keyNm":"wuyuqing2","access_key":"bnqwcuywq3432g","secret_key":"xbyqu278t23gf83","types":"md5s","createEid":"yuqing.wu","__v":0},"$init":true},{"$__":{"strictMode":true,"selected":{"$ref":"$[0][\"$__\"][\"selected\"]"},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":180,"2":186,"3":125,"4":153,"5":89,"6":44,"7":20,"8":204,"9":254,"10":225,"11":200}},"wasPopulated":false,"activePaths":{"paths":{"reginon":"require","_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"__v":true},"modify":{},"require":{"reginon":true}},"stateNames":{"$ref":"$[0][\"$__\"][\"activePaths\"][\"stateNames\"]"}},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[1][\"$__\"][\"_id\"]"},"keyNm":"wuyuqing21","access_key":"bnqwcuywq3432g","secret_key":"xbyqu278t23gf83","types":"md5s1","createEid":"yuqing.wu","__v":0},"$init":true},{"$__":{"strictMode":true,"selected":{"$ref":"$[0][\"$__\"][\"selected\"]"},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":180,"2":186,"3":132,"4":153,"5":89,"6":44,"7":20,"8":204,"9":254,"10":225,"11":201}},"wasPopulated":false,"activePaths":{"paths":{"reginon":"require","_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"__v":true},"modify":{},"require":{"reginon":true}},"stateNames":{"$ref":"$[0][\"$__\"][\"activePaths\"][\"stateNames\"]"}},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[2][\"$__\"][\"_id\"]"},"keyNm":"wuyuqing21","access_key":"bnqwcuywq3432g","secret_key":"xbyqu278t23gf83","types":"kps","createEid":"yuqing.wu","__v":0},"$init":true},{"$__":{"strictMode":true,"selected":{"$ref":"$[0][\"$__\"][\"selected\"]"},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":180,"2":186,"3":135,"4":153,"5":89,"6":44,"7":20,"8":204,"9":254,"10":225,"11":202}},"wasPopulated":false,"activePaths":{"paths":{"reginon":"require","_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"__v":true},"modify":{},"require":{"reginon":true}},"stateNames":{"$ref":"$[0][\"$__\"][\"activePaths\"][\"stateNames\"]"}},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[3][\"$__\"][\"_id\"]"},"keyNm":"wuyuqing21","access_key":"bnqwcuywq3432g","secret_key":"xbyqu278t23gf83","types":"kps","createEid":"yuqing.wu1","__v":0},"$init":true}]
+{"$__":{"strictMode":true,"selected":{},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":180,"2":186,"3":132,"4":153,"5":89,"6":44,"7":20,"8":204,"9":254,"10":225,"11":201}},"wasPopulated":false,"activePaths":{"paths":{"reginon":"require","_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"__v":true},"modify":{},"require":{"reginon":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[\"$__\"][\"_id\"]"},"keyNm":"wuyuqing21","access_key":"bnqwcuywq3432g","secret_key":"xbyqu278t23gf83","types":"kps","createEid":"yuqing.wu","__v":0},"$init":true,"level":"info","message":"","timestamp":"2018-03-26T06:42:20.796Z"}
+{"level":"info","message":"200","timestamp":"2018-03-26T06:42:56.429Z"}
+{"level":"info","message":"","timestamp":"2018-03-26T06:42:56.430Z"}
+[{"$__":{"strictMode":true,"selected":{},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":180,"2":186,"3":116,"4":153,"5":89,"6":44,"7":20,"8":204,"9":254,"10":225,"11":199}},"wasPopulated":false,"activePaths":{"paths":{"reginon":"require","_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"__v":true},"modify":{},"require":{"reginon":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[0][\"$__\"][\"_id\"]"},"keyNm":"wuyuqing2","access_key":"bnqwcuywq3432g","secret_key":"xbyqu278t23gf83","types":"md5s","createEid":"yuqing.wu","__v":0},"$init":true},{"$__":{"strictMode":true,"selected":{"$ref":"$[0][\"$__\"][\"selected\"]"},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":180,"2":186,"3":125,"4":153,"5":89,"6":44,"7":20,"8":204,"9":254,"10":225,"11":200}},"wasPopulated":false,"activePaths":{"paths":{"reginon":"require","_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"__v":true},"modify":{},"require":{"reginon":true}},"stateNames":{"$ref":"$[0][\"$__\"][\"activePaths\"][\"stateNames\"]"}},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[1][\"$__\"][\"_id\"]"},"keyNm":"wuyuqing21","access_key":"bnqwcuywq3432g","secret_key":"xbyqu278t23gf83","types":"md5s1","createEid":"yuqing.wu","__v":0},"$init":true},{"$__":{"strictMode":true,"selected":{"$ref":"$[0][\"$__\"][\"selected\"]"},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":180,"2":186,"3":132,"4":153,"5":89,"6":44,"7":20,"8":204,"9":254,"10":225,"11":201}},"wasPopulated":false,"activePaths":{"paths":{"reginon":"require","_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"__v":true},"modify":{},"require":{"reginon":true}},"stateNames":{"$ref":"$[0][\"$__\"][\"activePaths\"][\"stateNames\"]"}},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[2][\"$__\"][\"_id\"]"},"keyNm":"wuyuqing21","access_key":"bnqwcuywq3432g","secret_key":"xbyqu278t23gf83","types":"kps","createEid":"yuqing.wu","__v":0},"$init":true},{"$__":{"strictMode":true,"selected":{"$ref":"$[0][\"$__\"][\"selected\"]"},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":180,"2":186,"3":135,"4":153,"5":89,"6":44,"7":20,"8":204,"9":254,"10":225,"11":202}},"wasPopulated":false,"activePaths":{"paths":{"reginon":"require","_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"__v":true},"modify":{},"require":{"reginon":true}},"stateNames":{"$ref":"$[0][\"$__\"][\"activePaths\"][\"stateNames\"]"}},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[3][\"$__\"][\"_id\"]"},"keyNm":"wuyuqing21","access_key":"bnqwcuywq3432g","secret_key":"xbyqu278t23gf83","types":"kps","createEid":"yuqing.wu1","__v":0},"$init":true}]
+{"$__":{"strictMode":true,"selected":{},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":180,"2":186,"3":125,"4":153,"5":89,"6":44,"7":20,"8":204,"9":254,"10":225,"11":200}},"wasPopulated":false,"activePaths":{"paths":{"reginon":"require","_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"__v":true},"modify":{},"require":{"reginon":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[\"$__\"][\"_id\"]"},"keyNm":"wuyuqing21","access_key":"bnqwcuywq3432g","secret_key":"xbyqu278t23gf83","types":"md5s1","createEid":"yuqing.wu","__v":0},"$init":true,"level":"info","message":"","timestamp":"2018-03-26T06:47:14.361Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T06:52:01.750Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T06:52:02.771Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T06:58:03.244Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T06:58:04.286Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T07:00:14.249Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T07:00:15.274Z"}
+{"$__":{"strictMode":true,"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":184,"2":154,"3":130,"4":228,"5":85,"6":73,"7":9,"8":252,"9":24,"10":218,"11":25}},"wasPopulated":false,"activePaths":{"paths":{"reginon":"require","keyNm":"modify","access_key":"modify","secret_key":"modify","types":"modify","createEid":"modify","_id":"default"},"states":{"ignore":{},"default":{"_id":true},"init":{},"modify":{"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true},"require":{"reginon":true}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":true,"errors":{"reginon":{"message":"Path `reginon` is required.","name":"ValidatorError","properties":{"message":"Path `{PATH}` is required.","type":"required","path":"reginon"},"kind":"required","path":"reginon","$isValidatorError":true}},"_doc":{"keyNm":"joxxs","access_key":"x3uig28g37fg32uf","secret_key":"cewfhi23f33","types":"scewv","createEid":"chen.ji","_id":{"$ref":"$[\"$__\"][\"_id\"]"}},"level":"info","message":"","timestamp":"2018-03-26T07:00:18.510Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T07:03:02.630Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T07:03:03.666Z"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":184,"2":155,"3":52,"4":179,"5":196,"6":39,"7":78,"8":96,"9":134,"10":202,"11":195}},"wasPopulated":false,"activePaths":{"paths":{},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"keyNm":"joxxs","access_key":"x3uig28g37fg32uf","secret_key":"cewfhi23f33","types":"scewv","createEid":"chen.ji","_id":{"$ref":"$[\"$__\"][\"_id\"]"},"__v":0},"level":"info","message":"","timestamp":"2018-03-26T07:03:16.034Z"}
+{"level":"info","message":"New key:keymodels.id","timestamp":"2018-03-26T07:03:16.038Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T07:06:07.716Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T07:06:08.753Z"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":184,"2":155,"3":229,"4":167,"5":136,"6":131,"7":29,"8":84,"9":102,"10":186,"11":113}},"wasPopulated":false,"activePaths":{"paths":{},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"keyNm":"joxxs","access_key":"x3uig28g37fg32uf","secret_key":"cewfhi23f33","types":"scewv","createEid":"chen.ji","_id":{"$ref":"$[\"$__\"][\"_id\"]"},"__v":0},"level":"info","message":"","timestamp":"2018-03-26T07:06:13.094Z"}
+{"level":"info","message":"New key:keymodels.id","timestamp":"2018-03-26T07:06:13.097Z"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":184,"2":156,"3":11,"4":167,"5":136,"6":131,"7":29,"8":84,"9":102,"10":186,"11":114}},"wasPopulated":false,"activePaths":{"paths":{},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"keyNm":"joxxs","access_key":"x3uig28g37fg32uf","secret_key":"cewfhi23f33","types":"scewv","createEid":"chen.ji","_id":{"$ref":"$[\"$__\"][\"_id\"]"},"__v":0},"level":"info","message":"","timestamp":"2018-03-26T07:06:51.241Z"}
+{"level":"info","message":"New key:keymodels.id","timestamp":"2018-03-26T07:06:51.243Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T07:12:20.076Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T07:12:21.097Z"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":184,"2":157,"3":105,"4":126,"5":17,"6":212,"7":42,"8":40,"9":38,"10":60,"11":50}},"wasPopulated":false,"activePaths":{"paths":{},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"keyNm":"joxxs","access_key":"x3uig28g37fg32uf","secret_key":"cewfhi23f33","types":"scewv","createEid":"chen.ji","region":"shanghai","_id":{"$ref":"$[\"$__\"][\"_id\"]"},"__v":0},"level":"info","message":"","timestamp":"2018-03-26T07:12:41.182Z"}
+{"level":"info","message":"New key:keymodels.id","timestamp":"2018-03-26T07:12:41.186Z"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":184,"2":157,"3":113,"4":126,"5":17,"6":212,"7":42,"8":40,"9":38,"10":60,"11":51}},"wasPopulated":false,"activePaths":{"paths":{},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"keyNm":"joxxs","access_key":"x3uig28g37fg32uf","secret_key":"cewfhi23f33","types":"scewv","createEid":"chen.ji","region":"shanghai","_id":{"$ref":"$[\"$__\"][\"_id\"]"},"__v":0},"level":"info","message":"","timestamp":"2018-03-26T07:12:49.260Z"}
+{"level":"info","message":"New key:keymodels.id","timestamp":"2018-03-26T07:12:49.262Z"}
+{"$__":{"strictMode":true,"selected":{},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":184,"2":157,"3":105,"4":126,"5":17,"6":212,"7":42,"8":40,"9":38,"10":60,"11":50}},"wasPopulated":false,"activePaths":{"paths":{"_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","region":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"region":true,"__v":true},"modify":{},"require":{}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[\"$__\"][\"_id\"]"},"keyNm":"joxxs","access_key":"x3uig28g37fg32uf","secret_key":"cewfhi23f33","types":"scewv","createEid":"chen.ji","region":"shanghai","__v":0},"$init":true,"level":"info","message":"","timestamp":"2018-03-26T07:14:31.670Z"}
+{"level":"error","message":"PUT 500 Cannot read property 'id' of undefined","timestamp":"2018-03-26T07:15:46.472Z"}
+{"level":"error","message":"PUT 500 Cannot read property 'id' of undefined","timestamp":"2018-03-26T07:16:09.455Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T07:19:11.348Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T07:19:12.374Z"}
+{"level":"error","message":"PUT 500 Cannot read property 'id' of undefined","timestamp":"2018-03-26T07:19:15.773Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T07:19:36.848Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T07:19:37.872Z"}
+{"level":"error","message":"PUT 500 Cannot read property 'id' of undefined","timestamp":"2018-03-26T07:20:28.687Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T07:22:07.231Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T07:22:08.260Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T07:31:53.489Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T07:31:54.520Z"}
+{"level":"info","message":"New template create with??","timestamp":"2018-03-26T07:45:03.978Z"}
+{"level":"error","message":"PUT 400 Unexpected token } in JSON at position 187","timestamp":"2018-03-26T07:46:42.860Z"}
+{"level":"info","message":"template with id:5ab8a4ffe420eb3d0ced49afis updated","timestamp":"2018-03-26T07:46:55.404Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T07:52:21.062Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T07:52:22.099Z"}
+{"level":"error","message":"PUT 500 Cannot read property 'id' of undefined","timestamp":"2018-03-26T07:52:33.322Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T07:55:42.245Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T07:55:43.289Z"}
+{"level":"error","message":"PUT 500 Cannot read property 'id' of undefined","timestamp":"2018-03-26T07:55:49.521Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T07:56:59.348Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T07:57:00.392Z"}
+{"level":"info","message":"5ab8a4ffe420eb3d0ced49af","timestamp":"2018-03-26T07:57:37.041Z"}
+{"level":"info","message":"template with id:5ab8a4ffe420eb3d0ced49afis updated","timestamp":"2018-03-26T07:57:37.061Z"}
+{"level":"info","message":"5ab8a4ffe420eb3d0ced49af","timestamp":"2018-03-26T07:57:45.716Z"}
+{"level":"info","message":"template with id:5ab8a4ffe420eb3d0ced49afis updated","timestamp":"2018-03-26T07:57:45.721Z"}
+{"level":"error","message":"PUT 500 Cannot read property 'id' of undefined","timestamp":"2018-03-26T07:57:56.903Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T08:04:53.578Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T08:04:54.607Z"}
+{"level":"info","message":"5ab4ba7d99592c14ccfee1c8","timestamp":"2018-03-26T08:04:59.929Z"}
+{"level":"info","message":"key id5ab4ba7d99592c14ccfee1c8is update","timestamp":"2018-03-26T08:04:59.950Z"}
+{"level":"info","message":"200","timestamp":"2018-03-26T08:08:22.623Z"}
+{"level":"info","message":"","timestamp":"2018-03-26T08:08:22.624Z"}
+[{"$__":{"strictMode":true,"selected":{},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":180,"2":186,"3":116,"4":153,"5":89,"6":44,"7":20,"8":204,"9":254,"10":225,"11":199}},"wasPopulated":false,"activePaths":{"paths":{"_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"__v":true},"modify":{},"require":{}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[0][\"$__\"][\"_id\"]"},"keyNm":"wuyuqing2","access_key":"bnqwcuywq3432g","secret_key":"xbyqu278t23gf83","types":"md5s","createEid":"yuqing.wu","__v":0},"$init":true},{"$__":{"strictMode":true,"selected":{"$ref":"$[0][\"$__\"][\"selected\"]"},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":180,"2":186,"3":125,"4":153,"5":89,"6":44,"7":20,"8":204,"9":254,"10":225,"11":200}},"wasPopulated":false,"activePaths":{"paths":{"_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","__v":"init","region":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"__v":true,"region":true},"modify":{},"require":{}},"stateNames":{"$ref":"$[0][\"$__\"][\"activePaths\"][\"stateNames\"]"}},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[1][\"$__\"][\"_id\"]"},"keyNm":"xxxxxxxjoxxs","access_key":"x3uig28g37fg32uf","secret_key":"cewfhi23f33","types":"scewv","createEid":"chen.jif'f'f'f'f","__v":0,"region":"shanghai"},"$init":true},{"$__":{"strictMode":true,"selected":{"$ref":"$[0][\"$__\"][\"selected\"]"},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":180,"2":186,"3":132,"4":153,"5":89,"6":44,"7":20,"8":204,"9":254,"10":225,"11":201}},"wasPopulated":false,"activePaths":{"paths":{"_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"__v":true},"modify":{},"require":{}},"stateNames":{"$ref":"$[0][\"$__\"][\"activePaths\"][\"stateNames\"]"}},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[2][\"$__\"][\"_id\"]"},"keyNm":"wuyuqing21","access_key":"bnqwcuywq3432g","secret_key":"xbyqu278t23gf83","types":"kps","createEid":"yuqing.wu","__v":0},"$init":true},{"$__":{"strictMode":true,"selected":{"$ref":"$[0][\"$__\"][\"selected\"]"},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":180,"2":186,"3":135,"4":153,"5":89,"6":44,"7":20,"8":204,"9":254,"10":225,"11":202}},"wasPopulated":false,"activePaths":{"paths":{"_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"__v":true},"modify":{},"require":{}},"stateNames":{"$ref":"$[0][\"$__\"][\"activePaths\"][\"stateNames\"]"}},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[3][\"$__\"][\"_id\"]"},"keyNm":"wuyuqing21","access_key":"bnqwcuywq3432g","secret_key":"xbyqu278t23gf83","types":"kps","createEid":"yuqing.wu1","__v":0},"$init":true},{"$__":{"strictMode":true,"selected":{"$ref":"$[0][\"$__\"][\"selected\"]"},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":184,"2":155,"3":52,"4":179,"5":196,"6":39,"7":78,"8":96,"9":134,"10":202,"11":195}},"wasPopulated":false,"activePaths":{"paths":{"_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"__v":true},"modify":{},"require":{}},"stateNames":{"$ref":"$[0][\"$__\"][\"activePaths\"][\"stateNames\"]"}},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[4][\"$__\"][\"_id\"]"},"keyNm":"joxxs","access_key":"x3uig28g37fg32uf","secret_key":"cewfhi23f33","types":"scewv","createEid":"chen.ji","__v":0},"$init":true},{"$__":{"strictMode":true,"selected":{"$ref":"$[0][\"$__\"][\"selected\"]"},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":184,"2":155,"3":229,"4":167,"5":136,"6":131,"7":29,"8":84,"9":102,"10":186,"11":113}},"wasPopulated":false,"activePaths":{"paths":{"_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"__v":true},"modify":{},"require":{}},"stateNames":{"$ref":"$[0][\"$__\"][\"activePaths\"][\"stateNames\"]"}},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[5][\"$__\"][\"_id\"]"},"keyNm":"joxxs","access_key":"x3uig28g37fg32uf","secret_key":"cewfhi23f33","types":"scewv","createEid":"chen.ji","__v":0},"$init":true},{"$__":{"strictMode":true,"selected":{"$ref":"$[0][\"$__\"][\"selected\"]"},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":184,"2":156,"3":11,"4":167,"5":136,"6":131,"7":29,"8":84,"9":102,"10":186,"11":114}},"wasPopulated":false,"activePaths":{"paths":{"_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"__v":true},"modify":{},"require":{}},"stateNames":{"$ref":"$[0][\"$__\"][\"activePaths\"][\"stateNames\"]"}},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[6][\"$__\"][\"_id\"]"},"keyNm":"joxxs","access_key":"x3uig28g37fg32uf","secret_key":"cewfhi23f33","types":"scewv","createEid":"chen.ji","__v":0},"$init":true},{"$__":{"strictMode":true,"selected":{"$ref":"$[0][\"$__\"][\"selected\"]"},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":184,"2":157,"3":105,"4":126,"5":17,"6":212,"7":42,"8":40,"9":38,"10":60,"11":50}},"wasPopulated":false,"activePaths":{"paths":{"_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","region":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"region":true,"__v":true},"modify":{},"require":{}},"stateNames":{"$ref":"$[0][\"$__\"][\"activePaths\"][\"stateNames\"]"}},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[7][\"$__\"][\"_id\"]"},"keyNm":"joxxs","access_key":"x3uig28g37fg32uf","secret_key":"cewfhi23f33","types":"scewv","createEid":"chen.ji","region":"shanghai","__v":0},"$init":true},{"$__":{"strictMode":true,"selected":{"$ref":"$[0][\"$__\"][\"selected\"]"},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":184,"2":157,"3":113,"4":126,"5":17,"6":212,"7":42,"8":40,"9":38,"10":60,"11":51}},"wasPopulated":false,"activePaths":{"paths":{"_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","region":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"region":true,"__v":true},"modify":{},"require":{}},"stateNames":{"$ref":"$[0][\"$__\"][\"activePaths\"][\"stateNames\"]"}},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[8][\"$__\"][\"_id\"]"},"keyNm":"joxxs","access_key":"x3uig28g37fg32uf","secret_key":"cewfhi23f33","types":"scewv","createEid":"chen.ji","region":"shanghai","__v":0},"$init":true}]
+{"level":"info","message":"200","timestamp":"2018-03-26T08:13:53.022Z"}
+{"level":"info","message":"","timestamp":"2018-03-26T08:13:53.023Z"}
+[{"$__":{"strictMode":true,"selected":{},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":180,"2":186,"3":116,"4":153,"5":89,"6":44,"7":20,"8":204,"9":254,"10":225,"11":199}},"wasPopulated":false,"activePaths":{"paths":{"_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"__v":true},"modify":{},"require":{}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[0][\"$__\"][\"_id\"]"},"keyNm":"wuyuqing2","access_key":"bnqwcuywq3432g","secret_key":"xbyqu278t23gf83","types":"md5s","createEid":"yuqing.wu","__v":0},"$init":true},{"$__":{"strictMode":true,"selected":{"$ref":"$[0][\"$__\"][\"selected\"]"},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":180,"2":186,"3":125,"4":153,"5":89,"6":44,"7":20,"8":204,"9":254,"10":225,"11":200}},"wasPopulated":false,"activePaths":{"paths":{"_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","__v":"init","region":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"__v":true,"region":true},"modify":{},"require":{}},"stateNames":{"$ref":"$[0][\"$__\"][\"activePaths\"][\"stateNames\"]"}},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[1][\"$__\"][\"_id\"]"},"keyNm":"xxxxxxxjoxxs","access_key":"x3uig28g37fg32uf","secret_key":"cewfhi23f33","types":"scewv","createEid":"chen.jif'f'f'f'f","__v":0,"region":"shanghai"},"$init":true},{"$__":{"strictMode":true,"selected":{"$ref":"$[0][\"$__\"][\"selected\"]"},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":180,"2":186,"3":132,"4":153,"5":89,"6":44,"7":20,"8":204,"9":254,"10":225,"11":201}},"wasPopulated":false,"activePaths":{"paths":{"_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"__v":true},"modify":{},"require":{}},"stateNames":{"$ref":"$[0][\"$__\"][\"activePaths\"][\"stateNames\"]"}},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[2][\"$__\"][\"_id\"]"},"keyNm":"wuyuqing21","access_key":"bnqwcuywq3432g","secret_key":"xbyqu278t23gf83","types":"kps","createEid":"yuqing.wu","__v":0},"$init":true},{"$__":{"strictMode":true,"selected":{"$ref":"$[0][\"$__\"][\"selected\"]"},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":180,"2":186,"3":135,"4":153,"5":89,"6":44,"7":20,"8":204,"9":254,"10":225,"11":202}},"wasPopulated":false,"activePaths":{"paths":{"_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"__v":true},"modify":{},"require":{}},"stateNames":{"$ref":"$[0][\"$__\"][\"activePaths\"][\"stateNames\"]"}},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[3][\"$__\"][\"_id\"]"},"keyNm":"wuyuqing21","access_key":"bnqwcuywq3432g","secret_key":"xbyqu278t23gf83","types":"kps","createEid":"yuqing.wu1","__v":0},"$init":true},{"$__":{"strictMode":true,"selected":{"$ref":"$[0][\"$__\"][\"selected\"]"},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":184,"2":155,"3":52,"4":179,"5":196,"6":39,"7":78,"8":96,"9":134,"10":202,"11":195}},"wasPopulated":false,"activePaths":{"paths":{"_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"__v":true},"modify":{},"require":{}},"stateNames":{"$ref":"$[0][\"$__\"][\"activePaths\"][\"stateNames\"]"}},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[4][\"$__\"][\"_id\"]"},"keyNm":"joxxs","access_key":"x3uig28g37fg32uf","secret_key":"cewfhi23f33","types":"scewv","createEid":"chen.ji","__v":0},"$init":true},{"$__":{"strictMode":true,"selected":{"$ref":"$[0][\"$__\"][\"selected\"]"},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":184,"2":155,"3":229,"4":167,"5":136,"6":131,"7":29,"8":84,"9":102,"10":186,"11":113}},"wasPopulated":false,"activePaths":{"paths":{"_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"__v":true},"modify":{},"require":{}},"stateNames":{"$ref":"$[0][\"$__\"][\"activePaths\"][\"stateNames\"]"}},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[5][\"$__\"][\"_id\"]"},"keyNm":"joxxs","access_key":"x3uig28g37fg32uf","secret_key":"cewfhi23f33","types":"scewv","createEid":"chen.ji","__v":0},"$init":true},{"$__":{"strictMode":true,"selected":{"$ref":"$[0][\"$__\"][\"selected\"]"},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":184,"2":156,"3":11,"4":167,"5":136,"6":131,"7":29,"8":84,"9":102,"10":186,"11":114}},"wasPopulated":false,"activePaths":{"paths":{"_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"__v":true},"modify":{},"require":{}},"stateNames":{"$ref":"$[0][\"$__\"][\"activePaths\"][\"stateNames\"]"}},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[6][\"$__\"][\"_id\"]"},"keyNm":"joxxs","access_key":"x3uig28g37fg32uf","secret_key":"cewfhi23f33","types":"scewv","createEid":"chen.ji","__v":0},"$init":true},{"$__":{"strictMode":true,"selected":{"$ref":"$[0][\"$__\"][\"selected\"]"},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":184,"2":157,"3":105,"4":126,"5":17,"6":212,"7":42,"8":40,"9":38,"10":60,"11":50}},"wasPopulated":false,"activePaths":{"paths":{"_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","region":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"region":true,"__v":true},"modify":{},"require":{}},"stateNames":{"$ref":"$[0][\"$__\"][\"activePaths\"][\"stateNames\"]"}},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[7][\"$__\"][\"_id\"]"},"keyNm":"joxxs","access_key":"x3uig28g37fg32uf","secret_key":"cewfhi23f33","types":"scewv","createEid":"chen.ji","region":"shanghai","__v":0},"$init":true},{"$__":{"strictMode":true,"selected":{"$ref":"$[0][\"$__\"][\"selected\"]"},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":184,"2":157,"3":113,"4":126,"5":17,"6":212,"7":42,"8":40,"9":38,"10":60,"11":51}},"wasPopulated":false,"activePaths":{"paths":{"_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","region":"init","__v":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"region":true,"__v":true},"modify":{},"require":{}},"stateNames":{"$ref":"$[0][\"$__\"][\"activePaths\"][\"stateNames\"]"}},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[8][\"$__\"][\"_id\"]"},"keyNm":"joxxs","access_key":"x3uig28g37fg32uf","secret_key":"cewfhi23f33","types":"scewv","createEid":"chen.ji","region":"shanghai","__v":0},"$init":true}]
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T08:15:25.111Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T08:15:26.135Z"}
+{"level":"info","message":"200","timestamp":"2018-03-26T08:15:41.233Z"}
+{"level":"info","message":"","timestamp":"2018-03-26T08:15:41.234Z"}
+{"level":"info","message":"","timestamp":"2018-03-26T08:15:41.244Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T08:17:03.733Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T08:17:04.761Z"}
+{"level":"info","message":"200","timestamp":"2018-03-26T08:17:07.208Z"}
+{"level":"info","message":"","timestamp":"2018-03-26T08:17:07.208Z"}
+{"level":"info","message":"","timestamp":"2018-03-26T08:17:07.218Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T08:18:20.626Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T08:18:21.665Z"}
+{"level":"info","message":"200","timestamp":"2018-03-26T08:18:23.549Z"}
+{"level":"info","message":"","timestamp":"2018-03-26T08:18:23.550Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T08:19:01.415Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T08:19:02.460Z"}
+{"level":"info","message":"200","timestamp":"2018-03-26T08:19:06.876Z"}
+{"level":"info","message":"undefinedhello","timestamp":"2018-03-26T08:19:06.876Z"}
+{"level":"info","message":"","timestamp":"2018-03-26T08:19:06.887Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T08:19:34.387Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T08:19:35.428Z"}
+{"level":"info","message":"200","timestamp":"2018-03-26T08:19:40.217Z"}
+{"level":"info","message":"yuqing.wuhello","timestamp":"2018-03-26T08:19:40.217Z"}
+{"level":"info","message":"","timestamp":"2018-03-26T08:19:40.220Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T08:22:15.774Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T08:22:16.800Z"}
+{"level":"info","message":"200","timestamp":"2018-03-26T08:22:18.470Z"}
+{"level":"info","message":"","timestamp":"2018-03-26T08:22:18.475Z"}
+{"$__":{"strictMode":true,"selected":{},"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":180,"2":186,"3":125,"4":153,"5":89,"6":44,"7":20,"8":204,"9":254,"10":225,"11":200}},"wasPopulated":false,"activePaths":{"paths":{"_id":"init","keyNm":"init","access_key":"init","secret_key":"init","types":"init","createEid":"init","__v":"init","region":"init"},"states":{"ignore":{},"default":{},"init":{"_id":true,"keyNm":true,"access_key":true,"secret_key":true,"types":true,"createEid":true,"__v":true,"region":true},"modify":{},"require":{}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"_id":{"$ref":"$[\"$__\"][\"_id\"]"},"keyNm":"xxxxxxxjoxxs","access_key":"x3uig28g37fg32uf","secret_key":"cewfhi23f33","types":"scewv","createEid":"chen.jif'f'f'f'f","__v":0,"region":"shanghai"},"$init":true,"level":"info","message":"","timestamp":"2018-03-26T08:31:40.679Z"}
+{"level":"info","message":"key5ab4ba7d99592c14ccfee1c8 is deleted","timestamp":"2018-03-26T08:31:58.127Z"}
+{"level":"error","message":"key:5ab4ba7d99592c14ccfee1c8 is not found","timestamp":"2018-03-26T08:32:25.823Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T08:52:59.599Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T08:53:00.641Z"}
+{"level":"info","message":"200","timestamp":"2018-03-26T08:53:09.519Z"}
+{"level":"info","message":"","timestamp":"2018-03-26T08:53:09.523Z"}
+{"level":"info","message":"200","timestamp":"2018-03-26T08:53:47.732Z"}
+{"level":"info","message":"","timestamp":"2018-03-26T08:53:47.733Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T08:54:22.528Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T08:54:23.551Z"}
+{"level":"info","message":"200","timestamp":"2018-03-26T08:57:49.275Z"}
+{"level":"info","message":"","timestamp":"2018-03-26T08:57:49.277Z"}
+{"level":"info","message":"","timestamp":"2018-03-26T08:57:49.279Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T08:58:07.439Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T08:58:08.480Z"}
+{"level":"info","message":"200","timestamp":"2018-03-26T08:58:11.737Z"}
+{"level":"info","message":"function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }sdsdsd","timestamp":"2018-03-26T08:58:11.738Z"}
+{"level":"info","message":"","timestamp":"2018-03-26T08:58:11.740Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T08:59:27.835Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T08:59:28.871Z"}
+{"level":"info","message":"function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }sss","timestamp":"2018-03-26T08:59:44.624Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T09:03:33.954Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T09:03:34.995Z"}
+{"level":"info","message":"200","timestamp":"2018-03-26T09:03:39.214Z"}
+{"level":"info","message":"function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }sdsdsd","timestamp":"2018-03-26T09:03:39.215Z"}
+{"level":"error","message":"Tnternal error500:Parameter \"filter\" to find() must be an object, got etkey","timestamp":"2018-03-26T09:03:39.217Z"}
+{"level":"info","message":"..................","timestamp":"2018-03-26T09:03:39.217Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T09:08:27.236Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T09:08:28.270Z"}
+{"level":"info","message":"200","timestamp":"2018-03-26T09:08:30.956Z"}
+{"level":"info","message":"function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }sdsdsd","timestamp":"2018-03-26T09:08:30.957Z"}
+{"level":"info","message":"","timestamp":"2018-03-26T09:08:30.959Z"}
+{"level":"info","message":"200","timestamp":"2018-03-26T09:08:49.624Z"}
+{"level":"info","message":"function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }sdsdsd","timestamp":"2018-03-26T09:08:49.624Z"}
+{"level":"info","message":"","timestamp":"2018-03-26T09:08:49.625Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T09:09:08.283Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T09:09:09.308Z"}
+{"level":"info","message":"200","timestamp":"2018-03-26T09:09:10.847Z"}
+{"level":"info","message":"function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }sdsdsd","timestamp":"2018-03-26T09:09:10.848Z"}
+{"level":"error","message":"Tnternal error500:Parameter \"filter\" to find() must be an object, got yuqing.wu","timestamp":"2018-03-26T09:09:10.850Z"}
+{"level":"info","message":"..................","timestamp":"2018-03-26T09:09:10.850Z"}
+{"level":"info","message":"200","timestamp":"2018-03-26T09:09:11.739Z"}
+{"level":"info","message":"function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }sdsdsd","timestamp":"2018-03-26T09:09:11.740Z"}
+{"level":"error","message":"Tnternal error500:Parameter \"filter\" to find() must be an object, got yuqing.wu","timestamp":"2018-03-26T09:09:11.740Z"}
+{"level":"info","message":"..................","timestamp":"2018-03-26T09:09:11.741Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T09:10:30.851Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T09:10:31.882Z"}
+{"level":"info","message":"200","timestamp":"2018-03-26T09:10:33.101Z"}
+{"level":"info","message":"function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }sdsdsd","timestamp":"2018-03-26T09:10:33.102Z"}
+{"level":"info","message":"200","timestamp":"2018-03-26T09:10:35.104Z"}
+{"level":"info","message":"function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }sdsdsd","timestamp":"2018-03-26T09:10:35.105Z"}
+{"level":"info","message":"function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }sss","timestamp":"2018-03-26T09:10:58.234Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T09:12:24.620Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T09:12:25.681Z"}
+{"level":"info","message":"200","timestamp":"2018-03-26T09:12:28.452Z"}
+{"level":"info","message":"function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }sdsdsd","timestamp":"2018-03-26T09:12:28.453Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T09:15:21.149Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T09:15:22.190Z"}
+{"level":"info","message":"200","timestamp":"2018-03-26T09:15:25.677Z"}
+{"level":"info","message":"function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }sdsdsd","timestamp":"2018-03-26T09:15:25.678Z"}
+{"level":"info","message":"","timestamp":"2018-03-26T09:15:25.680Z"}
+{"level":"info","message":"200","timestamp":"2018-03-26T09:22:05.903Z"}
+{"level":"info","message":"function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }sdsdsd","timestamp":"2018-03-26T09:22:05.904Z"}
+{"level":"info","message":"","timestamp":"2018-03-26T09:22:05.904Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T09:22:16.871Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T09:22:17.903Z"}
+{"level":"info","message":"200","timestamp":"2018-03-26T09:22:21.600Z"}
+{"level":"info","message":"function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }sdsdsd","timestamp":"2018-03-26T09:22:21.601Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-26T09:33:27.121Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-26T09:33:28.151Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-27T06:36:54.163Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-27T06:36:55.199Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-27T09:47:50.825Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-27T09:47:51.851Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-27T10:01:50.185Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-27T10:01:51.217Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-27T10:04:33.250Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-27T10:04:34.281Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-27T10:09:00.725Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-27T10:09:01.751Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-27T10:10:00.961Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-27T10:10:01.992Z"}
+{"level":"info","message":".......","timestamp":"2018-03-27T10:10:03.875Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-27T10:10:50.207Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-27T10:10:51.239Z"}
+{"level":"info","message":".......undefined","timestamp":"2018-03-27T10:10:53.662Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-27T10:11:18.053Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-27T10:11:19.080Z"}
+{"level":"info","message":".......{ histories: [],\n  getResourceLists: [],\n  _id: 5ab8a4ffe420eb3d0ced49af,\n  name: '111111111111111111111wydw',\n  template: 'heill0',\n  description: 'sbhjcbcyhwbwhc',\n  types: 'cssssssc',\n  createEid: 'yuqing.wu',\n  __v: 0 }","timestamp":"2018-03-27T10:11:21.119Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-27T10:12:19.739Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-27T10:12:20.760Z"}
+{"level":"info","message":".......111111111111111111111wydw","timestamp":"2018-03-27T10:12:23.213Z"}
+{"level":"info","message":"New template create with??","timestamp":"2018-03-27T10:33:42.503Z"}
+{"level":"info","message":"New template create with??","timestamp":"2018-03-27T10:38:20.468Z"}
+{"level":"info","message":"New template create with??","timestamp":"2018-03-27T10:38:49.969Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-27T10:39:25.065Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-27T10:39:26.104Z"}
+{"level":"info","message":"New template create with??","timestamp":"2018-03-27T10:39:45.778Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-27T10:43:45.755Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-27T10:43:46.779Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-27T10:44:50.907Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-27T10:44:51.937Z"}
+{"level":"info","message":".......wuyuqing2","timestamp":"2018-03-27T10:44:54.251Z"}
+{"level":"info","message":"","timestamp":"2018-03-27T10:44:54.254Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-27T10:47:43.133Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-27T10:47:44.173Z"}
+{"level":"info","message":".......wuyuqing2","timestamp":"2018-03-27T10:47:47.394Z"}
+{"level":"info","message":"","timestamp":"2018-03-27T10:47:47.397Z"}
+{"level":"info","message":".......wuyuqing2","timestamp":"2018-03-27T10:47:50.388Z"}
+{"level":"info","message":"","timestamp":"2018-03-27T10:47:50.389Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-27T10:50:53.893Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-27T10:50:54.925Z"}
+{"level":"info","message":".......wuyuqing2","timestamp":"2018-03-27T10:50:57.825Z"}
+{"level":"info","message":"undefined111","timestamp":"2018-03-27T10:50:57.828Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-27T10:52:30.358Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-27T10:52:31.401Z"}
+{"level":"info","message":".......wuyuqing2","timestamp":"2018-03-27T10:52:36.267Z"}
+{"level":"info","message":"111","timestamp":"2018-03-27T10:52:36.270Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-27T23:52:18.822Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-27T23:52:19.846Z"}
+{"level":"info","message":"New template create with??","timestamp":"2018-03-27T23:58:43.609Z"}
+{"level":"info","message":"New template create with??","timestamp":"2018-03-27T23:58:44.099Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-28T00:03:47.458Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-28T00:03:48.484Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-28T00:04:53.139Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-28T00:04:54.165Z"}
+{"level":"info","message":"5aba1f393e8071262c5e8430","timestamp":"2018-03-28T00:41:36.069Z"}
+{"level":"info","message":"template with id:5aba1f393e8071262c5e8430is updated","timestamp":"2018-03-28T00:41:36.138Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-28T00:47:52.178Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-28T00:47:53.230Z"}
+{"level":"info","message":"New template create with??","timestamp":"2018-03-28T00:48:42.785Z"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":186,"2":230,"3":153,"4":241,"5":119,"6":139,"7":45,"8":196,"9":188,"10":119,"11":17}},"wasPopulated":false,"activePaths":{"paths":{},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"keyNm":"xxxxxxxjoxxs","access_key":"x3uig28g37fg32uf","secret_key":"cewfhi23f33","types":"scewv","createEid":"chen.jif'f'f'f'f","region":"shanghai","_id":{"$ref":"$[\"$__\"][\"_id\"]"},"__v":0},"level":"info","message":"","timestamp":"2018-03-28T00:49:29.992Z"}
+{"level":"info","message":"New key:keymodels.id","timestamp":"2018-03-28T00:49:29.998Z"}
+{"$__":{"strictMode":true,"inserting":true,"getters":{},"_id":{"_bsontype":"ObjectID","id":{"0":90,"1":186,"2":230,"3":187,"4":241,"5":119,"6":139,"7":45,"8":196,"9":188,"10":119,"11":18}},"wasPopulated":false,"activePaths":{"paths":{},"states":{"ignore":{},"default":{},"init":{},"modify":{},"require":{}},"stateNames":["require","modify","init","default","ignore"]},"pathsToScopes":{},"emitter":{"domain":null,"_events":{},"_eventsCount":0,"_maxListeners":0},"$options":true},"isNew":false,"_doc":{"keyNm":"wyq","access_key":"x3uig28g37fg32uf","secret_key":"cewfhi23f3xdsds3","types":"md5","createEid":"chen.ju","region":"shanghai","_id":{"$ref":"$[\"$__\"][\"_id\"]"},"__v":0},"level":"info","message":"","timestamp":"2018-03-28T00:50:03.091Z"}
+{"level":"info","message":"New key:keymodels.id","timestamp":"2018-03-28T00:50:03.095Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2018-03-28T02:06:11.527Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2018-03-28T02:06:12.571Z"}
+{"level":"info","message":"New template create with??","timestamp":"2018-03-28T02:06:27.887Z"}
+{"level":"info","message":"New template create with??","timestamp":"2018-03-28T02:07:00.816Z"}
+{"level":"info","message":"key5abaf8c4b98d12071072510c is deleted","timestamp":"2018-03-28T02:07:39.521Z"}
