@@ -11,6 +11,7 @@ var db = require(path+'/db/mongoose');
 
 var tempmodel=require(path+'/model/resource');
 var fs=require("fs");
+const child_process = require("child_process");
 
 // var cmd = require(path+'/utils/cmds');
 
@@ -95,30 +96,54 @@ fs.writeFile('C:/Users/Dolphin/Desktop/ppt/'+folder+'/'+ tempmodel_new.name+'.tf
 var output = exec("cd C:/Users/Dolphin/Desktop/ppt/"+folder+" && terraform init");
 // var output1 = exec("cd C:/Users/Dolphin/Desktop/ppt && terraform init");
 log.info(folder);
-// output.stdout.on('data', function (data) {
-//     //save db , send res qianduan
-//     console.log('stdout: ' + data);
-// });
 
-// output.stderr.on('data', function (data) {
-//     console.log('stderr: ' + data);
-// });
+let data = child_process.execSync("cd C:/Users/Dolphin/Desktop/ppt/"+folder+" && terraform init").toString();
+// console.log("2",data);
+if (data.indexOf("apply complete")>0){    //apply complete
+    console.log("good success")
+}else{
+    console.log(data)
+}
 
+// return  res.json({
+//     data:data,
+// });
+// return  res.json(data);
+
+output.stdout.on('data', function (data) {
+    //save db , send res qianduan
+    console.log('stdout: ' + data);
+});
+
+output.stderr.on('data', function (data) {
+    console.log('stderr: ' + data);
+});
 output.on('exit', function (code) {
-    if (code==1){
-        output.stderr.on('data', function (data) {
-            console.log('stderr: ' + data);
-        });
-     }
-     if (code==0){
-        output.stderr.on('data', function (data) {
-            console.log('stderr: ' + data);
-            log.info(data);
-        });}
+    // if (code==1){
+    //     output.stderr.on('data', function (data) {
+    //         console.log('stderr: ' + data);
+    //     });
+    //  }
+    //  if (code==0){
+    //     output.stderr.on('data', function (data) {
+    //         console.log('stderr: ' + data);
+    //         log.info(data);
+    //     });}
     console.log('child process exited with code ' + code);
 });
 
+
 });
+
+// router.get('/x', (req, res) => {
+
+//     let data = child_process.execSync('python -V');
+//     console.log(data);
+//     return  res.json({
+//         data:data,
+//     });
+
+// });
 
 //get a template
 router.get("/:id",function(req,res){
