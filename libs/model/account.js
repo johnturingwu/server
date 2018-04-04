@@ -9,7 +9,8 @@ var account=new Schema({
     secret_key:{type:String,require:true},
     types:{type:String,require:true},
     createEid:{type:String},
-    region:{type:String}
+    region:{type:String},
+    
 });
 
 module.exports = mongoose.model('account',account);

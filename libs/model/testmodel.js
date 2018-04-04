@@ -3,7 +3,7 @@
 var mongoose = require("mongoose");
 var Schema = mongoose.Schema;
 
-var plan=new Schema({
+var testmodel=new Schema({
     name:'string',
     template:'string',
     status:'string',
@@ -12,4 +12,4 @@ var plan=new Schema({
     result:'string'
 });
 
-module.exports = mongoose.model('plan',plan);
+module.exports = mongoose.model('testmodel',testmodel);
